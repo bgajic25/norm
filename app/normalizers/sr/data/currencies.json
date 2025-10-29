@@ -1,0 +1,10 @@
+{
+    "EUR": ["evro", "evra", "cent", "centi"],
+    "USD": ["dolar", "dolara", "cent", "centi"],
+    "GBP": ["funta", "funti", "peni", "penija"],
+    "RSD": ["dinar", "dinara", "para", "para"],
+    "JPY": ["jen", "jena", "sen", "sena"],
+    "INR": ["rupija", "rupija", "paisa", "paisa"],
+    "CHF": ["švajcarski franak", "švajcarska franka", "centim", "centima"],
+    "BTC": ["bitkoin", "bitkoina", "satoši", "satoša"]
+}

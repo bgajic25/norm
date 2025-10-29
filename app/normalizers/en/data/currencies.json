@@ -1,0 +1,10 @@
+{
+    "EUR": ["euro", "euros", "cent", "cents"],
+    "USD": ["dollar", "dollars", "cent", "cents"],
+    "GBP": ["pound", "pounds", "penny", "pence"],
+    "JPY": ["yen", "yen", "sen", "sen"],
+    "INR": ["rupee", "rupees", "paisa", "paise"],
+    "CAD": ["Canadian dollar", "Canadian dollars", "cent", "cents"],
+    "AUD": ["Australian dollar", "Australian dollars", "cent", "cents"],
+    "BTC": ["bitcoin", "bitcoins", "satoshi", "satoshis"]
+}
